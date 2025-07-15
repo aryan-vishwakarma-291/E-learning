@@ -7,3 +7,4 @@ DURATION: 4 WEEKS
 MENTOR: NEELA SANTOSH
 
 # I have created an e-learning website designed to provide accessible, flexible, and engaging educational content for students and learners of all ages
+<img width="1352" height="683" alt="Image" src="https://github.com/user-attachments/assets/29292df3-d916-4e95-81c8-0278364c8ded" />
